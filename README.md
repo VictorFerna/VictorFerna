@@ -19,14 +19,14 @@ Full-stack developer building end-to-end web solutions (frontend + backend), foc
 ### Finance Tracker (Web App)
 **Stack:** Next.js · Supabase/Postgres · Drizzle · Recharts · Vercel  
 Built a finance web app for tracking transactions and dashboards, focusing on clean data modeling and scalable structure.  
-🔗 Repository: https://github.com/VictorFerna/SEU_REPO_AQUI
+🔗 Repository: *SOON!*
 
 ---
 
 ### Cloud Storage (Web App)
 **Stack:** Next.js · Supabase · Cloudflare R2 · Vercel  
 Designed a cloud storage web app concept to upload and manage photos, videos, and PDFs with multi-device access in mind.  
-🔗 Repository: https://github.com/VictorFerna/SEU_REPO_AQUI  
+🔗 Repository: *SOON!*
 
 ---
 
