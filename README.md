@@ -39,7 +39,7 @@ Developed an academic project focused on data insights and visualization, transl
 
 ### FindSix (Professional Website — Client Project)
 **Stack:** Astro · Node.js/Express · Vercel (Frontend + Backend) · Google Workspace (SMTP) · DNS (Squarespace)  
-Led the project end-to-end as **Product Owner and Full-Stack Developer** (frontend + backend). Ran client meetings, aligned requirements, and delivered a production website with a secure contact flow (**validation, rate limiting, CORS hardening**) and LGPD-ready pages.
+Led the project end-to-end as **Product Owner and Full-Stack Developer** (frontend + backend). Ran client meetings, aligned requirements, and delivered a production website with a secure contact flow (**validation, rate limiting, CORS hardening**) and LGPD-ready pages.                                                                                               
 🔗 URL: https://www.findinsix.com
 
 ---
