@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=34&duration=3200&pause=800&color=157AFFFF&center=true&vCenter=true&width=900&lines=Hello%2C+I%27m+Victor+Fernandes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=34&duration=3200&pause=800&color=157AFFFF&center=true&vCenter=true&width=900&lines=Hello%2C+I%27m+Victor+Fernandes!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Developed an academic project focused on data insights and visualization, transl
 ### FindSix (Professional Website — Client Project)
 **Stack:** Astro · Node.js/Express · Vercel (Frontend + Backend) · Google Workspace (SMTP) · DNS (Squarespace)  
 Led the project end-to-end as **Product Owner and Full-Stack Developer** (frontend + backend). Ran client meetings, aligned requirements, and delivered a production website with a secure contact flow (**validation, rate limiting, CORS hardening**) and LGPD-ready pages.
-🔗 Live: https://www.findinsix.com
+🔗 URL: https://www.findinsix.com
 
 ---
 
