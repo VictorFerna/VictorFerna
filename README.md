@@ -73,5 +73,11 @@ Led the project end-to-end as **Product Owner and Full-Stack Developer** (fronte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" />
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" height="32" />
 </p>
-
+<br/>
+<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-fernandes21/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" />
+  </a>
+</p>
 ---
