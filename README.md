@@ -80,4 +80,4 @@ Led the project end-to-end as **Product Owner and Full-Stack Developer** (fronte
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" />
   </a>
 </p>
----
+
