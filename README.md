@@ -10,7 +10,6 @@ Full-stack developer building end-to-end web solutions (frontend + backend), foc
 
 ## ⭐ Featured Projects
 
-> Keep 2–4 items here. If a repo is private, link a public demo or a case study.
 
 | Project | Stack | Highlights | Links |
 |---|---|---|---|
@@ -53,14 +52,3 @@ Full-stack developer building end-to-end web solutions (frontend + backend), foc
 </p>
 
 ---
-
-## 🔍 What I build
-- Web apps with **secure APIs** (validation, rate limiting, CORS)
-- **Relational data modeling** and SQL queries
-- Clean deploy workflows on Vercel
-
----
-
-## 📫 Contact
-- Email: **victor.alvesfernandes21@gmail.com**
-- LinkedIn: **https://linkedin.com/in/victor-fernandes21**
