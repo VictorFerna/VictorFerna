@@ -5,15 +5,11 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=34&duration=3200&pause=800&color=157AFFFF&center=true&vCenter=true&width=900&lines=Hello%2C+I%27m+Victor+Fernandes!" alt="Typing SVG" />
   </a>
 </p>
-
-
----
+<br/>
 
 Full-stack developer building end-to-end web solutions (frontend + backend), focused on clean architecture, reliable integrations, and production-ready deployments.
 
-- **Core:** Node.js, JavaScript, SQL, Next.js, Supabase/Postgres, Vercel  
-- **Also:** Python (NumPy/Matplotlib), PHP  
-- **Environment:** Linux (Arch Linux), Git/GitHub, Figma
+<br/>
 
 ---
 
