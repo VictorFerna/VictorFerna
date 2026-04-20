@@ -10,14 +10,31 @@ Full-stack developer building end-to-end web solutions (frontend + backend), foc
 
 ## ⭐ Featured Projects
 
+### Finance Tracker (Web App)
+**Stack:** Next.js · Supabase/Postgres · Drizzle · Recharts · Vercel  
+Built a finance web app for tracking transactions and dashboards, focusing on clean data modeling and scalable structure.  
+🔗 Repository: https://github.com/VictorFerna/SEU_REPO_AQUI
 
-| Project | Stack | Highlights | Links |
-|---|---|---|---|
-| **Finance Tracker (Web App)** | Next.js · Supabase/Postgres · Drizzle · Recharts · Vercel | Transactions · dashboards · scalable structure | Repo · Demo |
-| **Cloud Storage (Web App)** | Next.js · Supabase · Cloudflare R2 · Vercel | Upload photos/videos/PDFs · multi-device access | Repo · Demo |
-| **MAPPA (UniCEUB PI)** | (your stack) | Data insights + visualization | Repo |
-| **FindSix (Case Study)** | Astro · Node/Express · Vercel | Secure form · rate-limit · CORS hardening | Case Study |
+---
 
+### Cloud Storage (Web App)
+**Stack:** Next.js · Supabase · Cloudflare R2 · Vercel  
+Designed a cloud storage web app concept to upload and manage photos, videos, and PDFs with multi-device access in mind.  
+🔗 Repository: https://github.com/VictorFerna/SEU_REPO_AQUI  
+
+---
+
+### MAPPA (UniCEUB PI)
+**Stack:**  
+Developed an academic project focused on data insights and visualization, translating raw information into clear outputs.  
+🔗 Repository: https://github.com/VictorFerna/PI-Projeto-MAPPA
+
+---
+
+### FindSix (Professional Website — Client Project)
+**Stack:** Astro · Node.js/Express · Vercel (Frontend + Backend) · Google Workspace (SMTP) · DNS (Squarespace)  
+Led the project end-to-end as **Product Owner and Full-Stack Developer** (frontend + backend). Ran client meetings, aligned requirements, and delivered a production website with a secure contact flow (**validation, rate limiting, CORS hardening**) and LGPD-ready pages.  
+🔗 Live: https://www.findinsix.com
 ---
 
 ## 🧰 Tech Stack
