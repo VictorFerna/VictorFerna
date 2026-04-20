@@ -6,6 +6,9 @@
   </a>
 </p>
 
+
+---
+
 Full-stack developer building end-to-end web solutions (frontend + backend), focused on clean architecture, reliable integrations, and production-ready deployments.
 
 - **Core:** Node.js, JavaScript, SQL, Next.js, Supabase/Postgres, Vercel  
