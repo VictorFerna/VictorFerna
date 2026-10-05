@@ -11,21 +11,7 @@ Full-stack developer building end-to-end web solutions (frontend + backend), foc
 
 ---
 
-## ⭐ Featured Projects
-
-### Finance Tracker (Web App)
-**Stack:** Next.js · Supabase/Postgres · Drizzle · Recharts · Vercel  
-Built a finance web app for tracking transactions and dashboards, focusing on clean data modeling and scalable structure.  
-🔗 Repository: *SOON!*
-
----
-
-### Cloud Storage (Web App)
-**Stack:** Next.js · Supabase · Cloudflare R2 · Vercel  
-Designed a cloud storage web app concept to upload and manage photos, videos, and PDFs with multi-device access in mind.  
-🔗 Repository: *SOON!*
-
----
+## Featured Projects
 
 ### MAPPA (UniCEUB PI)
 **Stack:**  
@@ -34,14 +20,13 @@ Developed an academic project focused on data insights and visualization, transl
 
 ---
 
-### FindSix (Professional Website — Client Project)
+### Professional Websites — Client Project
 **Stack:** Astro · Node.js/Express · Vercel (Frontend + Backend) · Google Workspace (SMTP) · DNS (Squarespace)  
 Led the project end-to-end as **Product Owner and Full-Stack Developer** (frontend + backend). Ran client meetings, aligned requirements, and delivered a production website with a secure contact flow (**validation, rate limiting, CORS hardening**) and LGPD-ready pages.                                                                                               
-🔗 URL: https://www.findinsix.com
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
